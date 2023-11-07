@@ -1,1 +1,3 @@
-public class Work1
+public class Work1{
+    //1
+}
